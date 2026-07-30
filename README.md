@@ -5,6 +5,7 @@
 Independent Research Project 1 — Juliana Agyapong, M.S. Marketing Analytics, Illinois Institute of Technology
 
 📄 **[Read the full report (PDF)](Customer_Segmentation_RFM_Research_Report.pdf)**
+📊 **[View the research presentation (PowerPoint)](Customer_Segmentation_Presentation.pptx)**
 
 ## Overview
 
@@ -12,7 +13,8 @@ This project investigates whether purchase frequency and monetary value represen
 
 ## Key Findings
 
-- Frequency and Monetary value are strongly correlated overall (ρ = 0.807, p < .001)
+- Frequency and Monetary value ar
+- e strongly correlated overall (ρ = 0.807, p < .001)
 - However, k-means clustering (k = 4) identifies four behaviorally distinct customer segments — rare buyers, regular repeat customers, loyal high-value customers, and extreme outliers — that a single-dimension view would obscure
 - PCA shows these segments exist along a continuous behavioral spectrum rather than as sharply bounded groups
 - Together, these results suggest that while Frequency and Monetary value move together on average, analyzing them jointly reveals customer heterogeneity relevant to targeted marketing and retention strategies
