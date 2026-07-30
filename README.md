@@ -5,6 +5,7 @@
 Independent Research Project 1 — Juliana Agyapong, M.S. Marketing Analytics, Illinois Institute of Technology
 
 📄 **[Read the full report (PDF)](Customer_Segmentation_RFM_Research_Report.pdf)**
+
 📊 **[View the research presentation (PowerPoint)](Customer_Segmentation_Presentation.pptx)**
 
 ## Overview
