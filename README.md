@@ -14,8 +14,7 @@ This project investigates whether purchase frequency and monetary value represen
 
 ## Key Findings
 
-- Frequency and Monetary value ar
-- e strongly correlated overall (ρ = 0.807, p < .001)
+- Frequency and Monetary value are strongly correlated overall (ρ = 0.807, p < .001).
 - However, k-means clustering (k = 4) identifies four behaviorally distinct customer segments — rare buyers, regular repeat customers, loyal high-value customers, and extreme outliers — that a single-dimension view would obscure
 - PCA shows these segments exist along a continuous behavioral spectrum rather than as sharply bounded groups
 - Together, these results suggest that while Frequency and Monetary value move together on average, analyzing them jointly reveals customer heterogeneity relevant to targeted marketing and retention strategies
@@ -23,8 +22,9 @@ This project investigates whether purchase frequency and monetary value represen
 ## Repository Contents
 
 | File | Description |
-|---|---|
-| `Project1_Final_Report.pdf` | Full research report (Introduction, Literature Review, Methodology, Results, Discussion, Conclusion, References, Appendix) |
+|------|-------------|
+| `Customer_Segmentation_RFM_Research_Report.pdf` | Full research report (Introduction, Literature Review, Methodology, Results, Discussion, Conclusion, References, Appendix) |
+| `Customer_Segmentation_Presentation.pptx` | Conference-style presentation summarizing the research question, methodology, findings, and practical implications |
 | `analysis.R` | Complete R script: data cleaning, RFM construction, correlation analysis, k-means clustering, silhouette validation, and PCA |
 | `figures/` | All figures generated during analysis (elbow plot, cluster plot, PCA plot, log-transformed distribution) |
 
